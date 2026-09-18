@@ -81,14 +81,13 @@ Worked on responsive web applications and completed projects including:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArpitaSethi-12&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArpitaSethi-12&layout=compact&theme=tokyonight" height="165"/>
-</p>
+💻 Check out my repositories and projects to explore what I'm building and learning.
 
----
+<a href="https://github.com/ArpitaSethi-12?tab=repositories">
+  <img src="https://img.shields.io/badge/View%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 ## 🤝 Let's Connect
 
